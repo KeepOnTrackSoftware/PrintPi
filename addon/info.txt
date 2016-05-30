@@ -1,0 +1,1 @@
+Addons. Plugins. Whatever you call it. Should be easily install/uninstall. Very lightweight system.
