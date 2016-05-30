@@ -1,0 +1,12 @@
+These files should return basic stats.
+
+Example:
+--------
+temps.py
+
+Fetches and returns temperatures.
+
+--------
+camera_snap.py
+
+Fetches and returns a quick snap of the camera.
