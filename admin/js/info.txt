@@ -1,0 +1,1 @@
+Use this for Admin UI JS. This will go along with the CSS framework. See CSS.
